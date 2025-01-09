@@ -1,4 +1,4 @@
-# BiTimeBERT2_0
+# BiTimeBERT 2.0
 
 This is the repository containing the code for the BiTimeBERT 2.0 model, which incorporates temporal information through three innovative pre-training objectives: Extended Time-Aware
 Masked Language Modeling (ETAMLM), Document Dating (DD), and Time-Sensitive Entity Replacement (TSER).
