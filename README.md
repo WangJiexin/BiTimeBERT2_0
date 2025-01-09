@@ -10,4 +10,5 @@ This model represents a substantial extension of our earlier work, BiTimeBERT. F
 </p>
 
 
+## Note
 We will continuously update and refine this repository to ensure that the final BiTimeBERT 2.0 code is clear and well-organized.
