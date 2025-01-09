@@ -8,3 +8,6 @@ This model represents a substantial extension of our earlier work, BiTimeBERT. F
 <p align="center">
   <img src="Figures/BiTimeBERT2_0.png">
 </p>
+
+
+We will continuously update and refine this repository to ensure that the final BiTimeBERT 2.0 code is clear and well-organized.
